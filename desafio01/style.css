@@ -1,0 +1,34 @@
+body {
+background: rgb(66, 66, 248);
+font: normal 15pt Arial;
+}
+header {
+color: rgb(211, 59, 21);
+text-align: center;
+}
+
+section {
+background: rgb(179, 215, 231);
+border-radius: 5px;
+padding: 15px;
+width: 500px;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+color: aliceblue;
+text-align: center;
+font-style: italic;
+}
+
+.foto1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
